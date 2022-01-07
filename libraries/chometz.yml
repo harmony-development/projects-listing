@@ -1,0 +1,10 @@
+name: Chometz
+description: A Qt client library for Harmony
+author: pontaoski
+language: C++
+license: LGPL-3.0-or-later
+repo: https://github.com/harmony-development/Chometz
+maturity: Mature
+maintained: yes
+thumbnail: null
+screenshot: null

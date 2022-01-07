@@ -1,0 +1,10 @@
+name: Barista
+description: Cross-platform bot offering wide arrange of commands
+author: Janet Blackquill
+language: Go
+license: MIT
+repo: https://github.com/pontaoski/barista
+maturity: Mature
+maintained: yes
+thumbnail: barista.png
+screenshot: null

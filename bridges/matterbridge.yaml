@@ -1,0 +1,10 @@
+name: Matterbridge
+description: A bridge supporting many chat protocols
+author: 42wim and others
+language: Go
+license: Apache-2.0
+repo: https://github.com/42wim/matterbridge
+maturity: Gamma
+maintained: yes
+thumbnail: matterbridge.png
+screenshot: null
