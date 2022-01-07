@@ -1,0 +1,10 @@
+name: scherzo
+description: A Rust server for Harmony, built using hyper.
+author: yusdacra
+language: Rust
+license: AGPL-3.0
+repo: https://github.com/harmony-development/scherzo
+maturity: Gamma
+maintained: yes
+thumbnail: null
+screenshot: null

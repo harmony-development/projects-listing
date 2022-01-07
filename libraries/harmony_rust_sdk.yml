@@ -1,0 +1,10 @@
+name: Harmony Rust SDK
+description: Rust implementation of the Harmony chat protocol.
+author: yusdacra
+language: Rust
+license: MIT
+repo: https://github.com/harmony-development/harmony_rust_sdk
+maturity: Mature
+maintained: yes
+thumbnail: null
+screenshot: null

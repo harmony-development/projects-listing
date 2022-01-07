@@ -1,0 +1,10 @@
+name: Loqui
+description: Harmony client made with Rust using the egui GUI library.
+author: yusdacra
+language: Rust
+license: GPL-3.0
+repo: https://github.com/harmony-development/Loqui
+maturity: Beta
+maintained: yes
+thumbnail: io.harmonyapp.Loqui.svg
+screenshot: null
