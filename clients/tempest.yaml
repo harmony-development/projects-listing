@@ -1,0 +1,10 @@
+name: Tempest
+description: A web client for Harmony written in Vue
+author: Bluskript
+language: TypeScript
+license: AGPL-3.0-or-later
+repo: https://github.com/harmony-development/tempest
+maturity: Alpha
+maintained: yes
+thumbnail: tempest.svg
+screenshot: null
