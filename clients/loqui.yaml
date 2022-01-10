@@ -8,3 +8,7 @@ maturity: Beta
 maintained: yes
 thumbnail: io.harmonyapp.Loqui.svg
 screenshot: null
+download:
+  linux: https://github.com/harmony-development/Loqui/releases/download/continuous/loqui-linux
+  windows: https://github.com/harmony-development/Loqui/releases/download/continuous/loqui-windows.exe
+  macos: https://github.com/harmony-development/Loqui/releases/download/continuous/loqui-macos
