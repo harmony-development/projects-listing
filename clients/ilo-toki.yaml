@@ -1,0 +1,10 @@
+name: ilo toki
+description: A terminal client for Harmony.
+author: jenra-uwu
+language: Rust
+license: MIT
+repo: https://github.com/jenra-uwu/ilo-toki
+maturity: Beta
+maintained: yes
+thumbnail: null
+screenshot: null
